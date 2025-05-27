@@ -2,8 +2,8 @@ let button1 = document.getElementById("btn-1");
 let button2 = document.getElementById("btn-2");
 let backImage = document.body;
 let colorStyle= document.querySelector(".back-image");
-let rgb1="#5D8D8E";
-let rgb2="#F0405C"
+let rgb1="#dd6883";
+let rgb2="#deaeb9";
 const ranHexa = () => {
   let hexCodes = "0123456789abcdef";
   let hexColor = "#";
